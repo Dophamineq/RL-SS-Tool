@@ -1,5 +1,4 @@
-# RL-SS-Tool
-Screenshare tool! 🌸
+# SS Tool 🌸
 
 1. RL Prefetch - Integrity Analyzer
 
