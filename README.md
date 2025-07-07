@@ -13,3 +13,5 @@
 6. RL Registry - Open important registry keys
 
 Powered by RedLotus. Made Dophamine.
+
+Start Adminstrator Permissions!
