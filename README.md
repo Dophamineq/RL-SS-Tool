@@ -10,7 +10,11 @@
 
 5. RL TCP - TCP analyzer script
 
-6. RL Registry - Open important registry keys
+6. Registry - Open important registry keys
+
+7. RecentDocs - Analyze recent documents
+
+8. Store - Compatibility Assistant Store
 
 Powered by RedLotus. Made Dophamine.
 
